@@ -1,0 +1,46 @@
+body {
+    padding: 50px;
+}
+
+
+h1 {
+    color: green;
+    text-align: center;
+}
+.flex-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-child-2
+{
+    width: 400px;
+    margin-left: -100px;
+}
+
+.flex-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.text-rouge {
+    color: rouge;
+}
+
+h2 {
+    color: purple;
+}
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 15px;
+    font-size: 25px;
+}
+
+th{
+    color: red;
+}
