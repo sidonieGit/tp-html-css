@@ -23,16 +23,20 @@ h1 {
     justify-content: space-evenly;
 }
 
-
 .text-rouge {
     color: rouge;
 }
 
+.for-bold {
+   font-weight: bold;
+}
 h2 {
     color: purple;
 }
 table{
     border-collapse: collapse;
+    border:"2";
+    text-align: "center";
 }
 
 th, td{
